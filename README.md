@@ -164,6 +164,7 @@ Autenticação	SAS Token (renovação automática a cada 60 min)
 Criptografia	Certificado CA da Azure validado no ESP32
 Isolamento	ESP32 nunca exposto à internet (só Azure)
 Fila C2D	Comandos assinados e autenticados pelo IoT Hub
+
 📊 Fluxo de Dados
 ESP32 Emissor lê sensores a cada 1s e monta um JSON
 
